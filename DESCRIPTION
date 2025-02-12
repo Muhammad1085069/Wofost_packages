@@ -58,7 +58,7 @@ Imports:
     jsonlite,
     lubricate
 Remotes:
-  https://github.com/mingdeyu/dgpsi-R.git,
-  https://github.com/mbinois/RRembo.git,
-  https://github.com/ilyamaclean/mesoclim.git,
-  https://github.com/jrmosedale/mesoclimAddTrees.git
+    https://github.com/mingdeyu/dgpsi-R.git,
+    https://github.com/mbinois/RRembo.git,
+    https://github.com/ilyamaclean/mesoclim.git,
+    https://github.com/jrmosedale/mesoclimAddTrees.git
